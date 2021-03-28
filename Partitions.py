@@ -28,7 +28,7 @@ def p(n,seq2):
     return ans
 
 
-n=666666
+n=666
 seq2 = second_seq(n)
 answer = p(n,seq2)
 
